@@ -1,0 +1,23 @@
+				========================================================================
+						   NPB(Ncurses Phone Book) (v0.001).
+					   Copyleft Written By Kasra Madadipouya October-2013.
+					   This application distributed under GNU General Public License
+								(GPL V2)
+				========================================================================
+NPB (Ncurses Phone Book) is simple phonebook application which created for educational and learning purposes.
+The application is developed for Linux platform and runs in command line which utilizes Ncurses library and Sqlite database.
+You need to have following packages to successfully compiled NPB,
+* gcc
+* ncurses (for interface)
+* sqlite 3 lib (for connecting to database)
+
+For compiling the code just cd to project directory and type following commands.
+* make
+* ./main
+
+>> Use 'make clean' to remove the compiled file.
+
+Contact
+if you want to report bug(s) or contribute to develop this software you can contact me in one of the these ways.
+> Sending mail: "kasra@madadipouya.com" OR "kasra_mp@live.com".
+
