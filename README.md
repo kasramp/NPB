@@ -8,12 +8,16 @@ The application is developed for Linux platform and runs in command line which u
 NPB requires the following packages
 
 	gcc
+	
 	ncurses (for interface)
+	
 	sqlite 3 lib (for connecting to database)
 
 ##How to use
 For compiling the code just cd to project directory and type following commands.
+	
 	make
+	
 	./main
 
 >> Use 'make clean' to remove the compiled file.
