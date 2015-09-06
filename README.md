@@ -13,6 +13,9 @@ NPB requires the following packages
 	
 	sqlite 3 lib (for connecting to database)
 
+In Ubuntu for installing Sqlite library use the following command,
+	$ sudo apt-get install sqlite3 libsqlite3-dev
+
 ##How to use
 For compiling the code just cd to project directory and type following commands.
 	
