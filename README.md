@@ -18,8 +18,8 @@ $ sudo apt-get install sqlite3 libsqlite3-dev
 
 ## How to use
 For compiling the code just cd to project directory and type following commands.
-* make
-* ./main
+* `make`
+* `./main`
 
 Use `make clean` to remove the compiled file.
 
