@@ -37,5 +37,5 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details. <http://www.gnu.org/licenses/>
 
-Copyright 2013-2017 Kasra Madadipouya <kasra@madadipouya.com>
+Copyright 2013-2018 Kasra Madadipouya <kasra@madadipouya.com>
  

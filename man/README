@@ -1,8 +1,8 @@
 				========================================================================
 						   NPB(Ncurses Phone Book) (v0.001).
-					   Copyleft Written By Kasra Madadipouya October-2013.
+					   Copyleft Written By Kasra Madadipouya October-2013-2018.
 					   This application distributed under GNU General Public License
-								(GPL V2)
+								(GPL V3)
 				========================================================================
 NPB (Ncurses Phone Book) is simple phonebook application which created for educational and learning purposes.
 The application is developed for Linux platform and runs in command line which utilizes Ncurses library and Sqlite database.
