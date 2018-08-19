@@ -1,7 +1,7 @@
 /*
  * add.h
  * 
- * Copyright 2013 Kasra Madadipouya <kasra@madadipouya.com>
+ * Copyright 2013-2018 Kasra Madadipouya <kasra@madadipouya.com>
  * 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
