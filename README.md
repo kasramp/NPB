@@ -25,7 +25,6 @@ Use `make clean` to remove the compiled file.
 
 ## Contact
 * kasra@madadipouya.com  
-* kasra_mp@live.com  
 
 ## License
 This program is free software; you can redistribute it and/or modify
